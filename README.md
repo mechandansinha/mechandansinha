@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mechandansinha
+- 👋 Hi, I’m Chandan Sinha
 - 👀 I’m primarily interested in Robotics and Space Technology
 - 🌱 I’m currently a Master's student at Virginia Tech
 - 💞️ I’m looking to collaborate on open-source projects related to control systems 
